@@ -1,2 +1,3 @@
 name = input("Номи ту чист? ")
-print(f"Салом, {name}!")
+age = int(input("Ту чандсолаӣ? "))
+print("Ман Git-ро меомӯзам!")
